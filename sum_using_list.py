@@ -9,4 +9,4 @@ for i in range(num):
     n = int(n)
     d = d + n
 sum.append(d)
-print(f'The sum of the number in the list is: {sum}')
+print(f'The sum of the number in the list is: {sum[0]}')
